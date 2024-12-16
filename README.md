@@ -4,7 +4,7 @@ This repository contains projects from the Computational Social Science 1B cours
 * All projects were created using Hex and focus on analyzing gender disparities in the workplace, testing hypotheses about social structures, and exploring predictive modeling.
 * All projects utilize the [2021 National Survey of College Graduates (NSCG) Public Use Data](https://ncses.nsf.gov/explore-data/microdata/national-survey-college-graduates) provided by the National Center for Science and Engineering Statistics (NCSES). This dataset offers comprehensive microdata on college graduates in the United States, enabling detailed exploration of workforce trends, earnings gaps, and the influence of social structures on gender dynamics. 
 <br>
-Key topics include: <br>
+Key topics include:
 * The impact of social structures and family norms on gender-based earnings gaps : Please check out my [hex notebook](https://app.hex.tech/beresford-berkeley/app/315e596f-34be-45ff-8e87-88718e92ae70/latest) on this topic.
 * Predictive models for understanding gender disparities
  
